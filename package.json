@@ -1,0 +1,26 @@
+{
+"name": "rotatingcup-yuyuelove",
+"version": "1.0.0",
+"description": "This project demonstrates a simple 3D rotating cup animation implemented using JavaScript. The animation creates an illusion of a spinning cup in a 3D space.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yuyuelove/RotatingCup.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yuyuelove",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
